@@ -1,0 +1,33 @@
+.recbutton {
+    height: 20px;
+    width: 140px;
+    font-size: 10px !important;
+    text-align: center !important; 
+    background-color: #F9A826 !important;
+    font-weight: 700 !important;
+    border: none !important;
+    border-radius: 10px !important;
+
+
+}
+
+.savechanges {
+    margin: 0;
+    top: 200px;
+    margin-left: 80px;
+    width: 200px !important;
+    background-color:#F9A826 !important;
+    border-radius: 20px !important;
+    border: none !important;
+}
+
+.closemodal {
+    background-color:#F9A826 !important;
+    top: 200px;
+    width: 100px !important;
+    margin-left: 270px !important;
+    border-radius: 20px !important;
+    border: none !important;
+
+}
+
